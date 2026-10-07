@@ -17,6 +17,6 @@ int main() {
             maior = alt;
         }
        }
-       printdf("\nA menor altura é: %.2f", menor);
-       printdf("\nA maior altura é: %.2f", maior);
+       printf("\nA menor altura é: %.2f", menor);
+       printf("\nA maior altura é: %.2f", maior);
     }
